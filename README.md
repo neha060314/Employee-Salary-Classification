@@ -17,7 +17,7 @@ This project is a **Streamlit-based web application** that predicts salary class
 
 ```bash
 git clone https://github.com/your-username/salary-prediction-app.git
-cd salary-prediction-app
+cd Employee-Salary-Classification
 ````
 
 ### 2. Install Dependencies
