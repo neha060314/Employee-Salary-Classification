@@ -36,6 +36,11 @@ streamlit run app.py
 
 This will open the app in your default web browser at `http://localhost:8501`.
 
+## 📊 Dataset Source
+
+The dataset used in this project can be found here:  
+[Employee Salaries Dataset – Kaggle](https://www.kaggle.com/datasets/devchauhan1/salary-datacsv)
+
 ## 📁 Project Structure
 
 ```
